@@ -1,5 +1,5 @@
 # 하이탑 화학 I
-![scrn](https://flat.badgen.net/badge/icon/with_mac?icon=apple&label)
+![scrn](https://flat.badgen.net/badge/icon/apple?icon=apple&label)
 ## 1권
 ### I. 화학의 첫걸음 (1) - 사고력 확장 문제 (64~65p)
 1. (1) 메테인: 무극성 분자, 아세트산: 극성 분자  
@@ -10,4 +10,4 @@
 4. (1) (가)와 (다)는 사슬 모양, (나)는 고리 모양이다.  
 (2) *직접 작성함.*  
 ### I. 화학의 첫걸음 (2) - 사고력 확장 문제 (130~133p)
-1. (1) 
+1. (1) 1\div (1/6X10<sup>-23</sup>)

@@ -1,5 +1,6 @@
 # 하이탑 화학 I
-![scrn](https://badgen.net/badge/made_with/mac/:blue?icon=apple)
+![scrn](https://badgen.net/badge/made_with/mac/:blue?icon=apple)  
+[문제가 발생한다면?](https://github.com/hoony6134/hightop/blob/main/chem1.md)
 ## 1권
 ### I. 화학의 첫걸음 (1) - 사고력 확장 문제 (64~65p)
 1. (1) 메테인: 무극성 분자, 아세트산: 극성 분자  
